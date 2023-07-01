@@ -1,0 +1,13 @@
+class M{
+    int i2;
+    String str;
+
+    M(int i,String str){
+        i2=i;
+    this.str=str;
+    }
+
+  public void printF(){
+      println("Printing");
+    }
+}
